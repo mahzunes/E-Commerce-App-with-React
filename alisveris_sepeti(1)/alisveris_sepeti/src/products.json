@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Adidas",
+        "price" :40,
+        "img" : "https://www.kaptanspor.com.tr/resimler/urunler/900x900/2_B43665_adidas-erkek-gunluk-ayakkabi-easy-vulc-2-0-ayakkabi-b43665_1.jpg"
+    },
+    
+    {
+        "id":2,
+        "name":"Nike",
+        "price" :50,
+        "img" :"https://static.nike.com/a/images/t_default/3df7160f-4d72-4254-bb2e-39626055f7f6/air-zoom-tempo-next-yol-ko%C5%9Fu-ayakkab%C4%B1s%C4%B1-zwkW5t.png"
+    },
+    {
+        "id":3,
+        "name":"Puma",
+        "price" :45,
+        "img" : "https://www.tekemspor.com/Uploads/UrunResimleri/puma-cruise-rider-silk-road-wn-s-kadin-8ae-49.png"
+    },
+    {
+        "id":4,
+        "name":"New Balance",
+        "price" :60,
+        "img" : "https://sneakerbaker.com/wp-content/uploads/2022/01/New-Balance-530-Steel-Grey-600x428.png"
+    },{
+        "id":5,
+        "name":"Puma",
+        "price" :45,
+        "img" : "https://www.thenextsole.com/storage/images/369451-01.png"
+    },
+    {
+        "id":6,
+        "name":"New Balance",
+        "price" :60,
+        "img" : "https://n11scdn.akamaized.net/a1/640/spor-outdoor/gunluk-spor-ayakkabi/new-balance-990-v5-made-in-us-gri-kadin-spor-ayakkabi__0608568322260452.png"
+    },
+
+    {
+        "id":7,
+        "name":"Skechers",
+        "price" :70,
+        "img" : "https://www.shoecarnival.com/dw/image/v2/BBSZ_PRD/on/demandware.static/-/Sites-scvl-master-catalog/default/dw0d344d73/88213_168559_1.jpg"
+    },
+    {
+        "id":8,
+        "name":"Zara",
+        "price" :80,
+        "img" : "https://cdnb.lystit.com/photos/2013/06/27/zara-red-asymmetric-leather-pointy-shoe-product-1-11258622-015604922.jpeg"
+    },
+    {
+        "id":9,
+        "name":"Undre Armor",
+        "price" :100,
+        "img" : "https://i.pinimg.com/originals/6f/b9/3c/6fb93c71fe6e3fe1c96b25b4d53bd93b.jpg"
+    },
+    {
+        "id":10,
+        "name":"Converse",
+        "price" :90,
+        "img" : "https://www.meleklermekani.com/attachments/converse-ayakkabi-modelleri-1-jpg.69374/"
+    }
+    ]
